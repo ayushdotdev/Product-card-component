@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-Thank you for checking out this repository, Pullrequests are highly appreciated.
+Thank you for checking out this repository, Pull requests are highly appreciated.
