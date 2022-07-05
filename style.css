@@ -40,12 +40,12 @@ body{
     }
 }
 .image{
-   content: url("images/image-product-mobile.jpg");
+   content: url("./images/image-product-mobile.jpg");
    max-width:100%;
 }
 @media (min-width:40.475rem){
     .image{
-        content:url('images/image-product-desktop.jpg');
+        content:url('./images/image-product-desktop.jpg');
         width:50%;
     }
 }
